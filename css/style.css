@@ -1,4 +1,4 @@
-.h1 {
+#h1 {
     background-color:#525151;
     text-align: center;
     color: white;
@@ -7,15 +7,4 @@
     font-size: 55px;
     font-style: italic;
     border: 2px solid #D53400;
-}
-.content {
-    padding: 16px;
-}
-.div.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-.div.sticky + content {
-    padding-top: 102px;
 }
