@@ -1,8 +1,10 @@
-
+function question1(){
 let response1 = prompt("Whats the Password?");
 alert(response1);
 console.log('my response to question 1 was...' + response1);
 alert('Eh, close enough!');
+}
+question1();
 
 let response2 = prompt("who's your daddy and what does he do?");
 alert(response2);
