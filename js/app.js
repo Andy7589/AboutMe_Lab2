@@ -6,10 +6,13 @@ alert('Eh, close enough!');
 }
 question1();
 
+function question2(){
 let response2 = prompt("who's your daddy and what does he do?");
 alert(response2);
 console.log('my response to question 2 was...' + response2);
 alert('makes sense...');
+}
+question2();
 
 let response3 = prompt('sooo how you doin?');
 alert(response3);
