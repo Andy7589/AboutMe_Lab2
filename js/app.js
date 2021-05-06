@@ -14,10 +14,13 @@ alert('makes sense...');
 }
 question2();
 
+function question3(){
 let response3 = prompt('sooo how you doin?');
 alert(response3);
 console.log('my response to queation 3 was...' + response3);
 alert('NOICE!')
+}
+question3();
 
 let response4 = prompt('Ready to enter my page?');
 alert(response4);
