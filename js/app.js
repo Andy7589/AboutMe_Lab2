@@ -18,4 +18,3 @@ let response4 = prompt('Ready to enter my page?');
 alert(response4);
 console.log('my response to question 4 was...' + response4);
 alert('no you arent')
-//testing push//
